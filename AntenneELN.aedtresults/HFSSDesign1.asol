@@ -1,0 +1,44 @@
+$begin '$base_index$'
+  $begin 'properties'
+    all_levels=000000000000
+    time(year=000000002023, month=000000000004, day=000000000004, hour=000000000009, min=000000000050, sec=000000000014)
+    version=000000000000
+  $end 'properties'
+  $begin '$base_index$'
+    $index$(pos=000000001459, lin=000000000027, lvl=000000000000)
+  $end '$base_index$'
+$end '$base_index$'
+$begin 'SolutionBlock1'
+	ProductName=''
+	CircuitName='HFSSDesign1'
+	VersionID=320
+	PostProcess=false
+	LossLess=true
+	NextUniqueID=327
+	MoveBackwards=false
+	$begin 'VariationIDs'
+		Map(V='Dgnd=\'5\' GNDTraceLength=\'-5mm\' InTraceHeigh=\'0.35999999999999999mm\' InTraceLength=\'-5mm\' InTraceWidth=\'-1mm\' PCBHeight=\'1.6000000000000001mm\' RPCB=\'17.5mm\' thAnt=\'59.999999999999993deg\' thGND=\'29.999999999999996deg\' Wan=\'0.5mm\' WAnt=\'1mm\' WGnd=\'2mm\'', ID=226)
+		Map(V='Dgnd=\'5mm\' GNDTraceLength=\'-5mm\' InTraceHeigh=\'0.35999999999999999mm\' InTraceLength=\'-5mm\' InTraceWidth=\'-1mm\' PCBHeight=\'1.6000000000000001mm\' RPCB=\'17.5mm\' thAnt=\'59.999999999999993deg\' thGND=\'29.999999999999996deg\' Wan=\'0.5mm\' WAnt=\'1mm\' WGnd=\'2mm\'', ID=229)
+	$end 'VariationIDs'
+	$begin 'LinkedDataList'
+	$end 'LinkedDataList'
+	MeshAssemVersionID=298
+	$begin 'NextAssemVersionID'
+		NextUniqueID=299
+		MoveBackwards=false
+	$end 'NextAssemVersionID'
+	$begin 'MI'
+	$end 'MI'
+	VersionID2=321
+$end 'SolutionBlock1'
+$begin 'BlockMapName'
+	FileHeader='SolutionBlock1'
+$end 'BlockMapName'
+$begin '$index$'
+	$begin '$index$'
+		BlockMapName(pos=1388, lin=24, lvl=0)
+		SolutionBlock1(pos=370, lin=1, lvl=0)
+		$base_index$(pos=0, lin=1, lvl=0)
+		$index$(pos=1459, lin=27, lvl=0)
+	$end '$index$'
+$end '$index$'
