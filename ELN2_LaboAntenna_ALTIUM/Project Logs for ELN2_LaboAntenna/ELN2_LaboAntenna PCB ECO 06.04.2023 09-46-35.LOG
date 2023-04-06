@@ -1,0 +1,4 @@
+Added Component: Designator=A1(Antenna)
+Added Pin To Net: NetName=ANT Pin=A1-1
+Added Pin To Net: NetName=GND Pin=A1-2
+Added Member To Class: ClassName=ELN2_LaboAntenna Member=Component A1 Antenna
